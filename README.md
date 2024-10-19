@@ -1,10 +1,17 @@
 Step1: Node should be installed.
+
 Step2: Import or download the above files.
+
 Step3: Run command in console: npm init
+
 Step4: Run command in console: npm install bignumber.js
+
 Step5: Run script: node assignment.js
+
 Step6: Enter input in json format:
+
 Example:
+
 {
     "keys": {
         "n": 4,
